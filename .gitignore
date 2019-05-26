@@ -1,0 +1,8 @@
+*.xml
+*.iml
+*.properties
+.idea/
+project/
+target/
+/src/main/resources/experiments/
+/src/main/resources/brownian_motion/
